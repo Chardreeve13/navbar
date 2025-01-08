@@ -47,6 +47,7 @@ header{
 
 .nav-links li a{
     transition: all 0.3s ease 0s;
+    padding: 0px;
 }
 .nav-links li a:hover{
     color:chocolate;
