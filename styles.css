@@ -72,3 +72,8 @@ button:hover{
 .cta{
     background-color: #02101e;
 }
+
+.hero-img{
+    width: 100%;
+    height: 600px;
+}
