@@ -21,6 +21,9 @@ header{
     align-items: center;
     padding: 30px 10%;
 }
+ nav{
+    background-color: #2c7ed0;
+ }
 
 .nav-logo{
     cursor:pointer;
