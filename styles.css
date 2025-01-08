@@ -24,5 +24,7 @@ header{
 
 .nav-logo{
     cursor:pointer;
-
+}
+.nav-links{
+    list-style:none;
 }
