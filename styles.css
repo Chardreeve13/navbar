@@ -48,4 +48,10 @@ button{
     padding: 9px 20px;
     border-radius: 50px;
     border:none;
+    cursor:pointer;
+    transition: all 0.3s ease 0s;
+}
+
+button:hover{
+    color: rgba(230, 107, 13, 0.8);
 }
