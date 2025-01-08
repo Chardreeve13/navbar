@@ -44,7 +44,8 @@ header{
 }
 
 button{
-    background-color:darkgoldenrod;
+    background-color: rgba(192, 146, 29, 0.8);
     padding: 20px 30px;
     border-radius: 50px;
+    border:none;
 }
