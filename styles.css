@@ -41,5 +41,9 @@ header{
 }
 .nav-links li a:hover{
     color:chocolate;
+}
 
+button{
+    background-color:darkgoldenrod;
+    padding: 20px 30px;
 }
