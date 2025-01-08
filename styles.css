@@ -35,6 +35,7 @@ header{
 }
 .nav-links{
     list-style:none;
+    border:0px;
 }
 
 .nav-links li{
