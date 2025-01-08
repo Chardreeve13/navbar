@@ -65,7 +65,9 @@ button{
     margin:0px;
 
 }
-
+a button{
+    background-color: #02101e;
+}
 button:hover{
     color: rgba(230, 107, 13, 0.8);
 }
